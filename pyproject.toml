@@ -1,0 +1,7 @@
+[project]
+name = "cu-cn-locale-enhanced-utils"
+version = "0.1.0"
+description = "None"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []

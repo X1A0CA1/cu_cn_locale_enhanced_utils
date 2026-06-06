@@ -1,0 +1,6 @@
+[submodule "sub_module/official"]
+	path = sub_module/official
+	url = https://github.com/Orsoniks/scavgame-locale.git
+[submodule "sub_module/krok_MP_chinese_locale"]
+	path = sub_module/krok_MP_chinese_locale
+	url = https://github.com/TemperedBaku/KrokMPChineseSupplement.git
